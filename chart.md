@@ -1,4 +1,5 @@
-flowchart LR
+ `` mermaid
+ 
     A[Math Foundations] --> B[Programming]
     B --> C[Machine Learning]
     C --> D[Deep Learning]
