@@ -1,4 +1,4 @@
- `` mermaid
+ ``Mermaid
  
     A[Math Foundations] --> B[Programming]
     B --> C[Machine Learning]
