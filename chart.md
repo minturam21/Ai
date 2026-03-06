@@ -85,3 +85,91 @@ Unsupervised Learning
 - Hierarchical clustering
 - PCA
 - Dimensionality reduction
+
+# ML Workflow Animation
+```mermaid
+flowchart LR
+    A[Data] --> B[Preprocessing]
+    B --> C[Training]
+    C --> D[Evaluation]
+    D --> E[Deployment]
+```
+
+# Deep Learning
+Frameworks
+```python
+PyTorch
+TensorFlow
+```
+Neural Network Concepts
+- Perceptron
+- Activation functions
+- Backpropagation
+
+Architectures
+- CNN
+- RNN
+- Transformers
+
+  # Neural Network Visualization
+  ```mermaid
+  flowchart LR
+    A[Input Layer] --> B[Hidden Layer]
+    B --> C[Hidden Layer]
+    C --> D[Output Layer]
+  ```
+
+  # Natural Language Processing
+
+Topics
+- Tokenization
+- Word Embeddings
+- Transformers
+- BERT / GPT models
+- Text classification
+
+Example applications
+- chatbots
+- sentiment analysis
+- document search
+
+# Computer Vision
+
+Topics
+- Image preprocessing
+- CNN architectures
+- Object detection
+- Image segmentation
+
+Libraries
+```
+OpenCV
+PyTorch
+TensorFlow
+```
+# MLOps
+Skills
+- model deployment
+- Docker
+- FastAPI
+- CI/CD
+- cloud platforms
+
+Tools
+```
+Docker
+Kubernetes
+MLflow
+Airflow
+AWS / GCP
+```
+# Data Engineering
+
+Important for real AI systems.
+
+Skills
+
+- SQL
+- ETL pipelines
+- Spark basics
+- large dataset handling
