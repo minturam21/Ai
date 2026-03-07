@@ -10,6 +10,7 @@ F --> G[AI Projects]
 G --> H[Job Ready]
 ```
 # Roadmap Timeline
+
 ```mermaid
 gantt
     title AI Preparation Timeline
