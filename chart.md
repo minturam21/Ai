@@ -173,3 +173,15 @@ Skills
 - ETL pipelines
 - Spark basics
 - large dataset handling
+Best Math Resources (Practical)
+
+# Start with:
+
+YouTube channels:
+```
+3Blue1Brown (best for intuition)
+
+StatQuest with Josh Starmer (best for ML stats)
+
+MIT OpenCourseWare (serious math)
+```
