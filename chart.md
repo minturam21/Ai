@@ -149,6 +149,7 @@ OpenCV
 PyTorch
 TensorFlow
 ```
+
 # MLOps
 Skills
 - model deployment
