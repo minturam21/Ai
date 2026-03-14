@@ -717,5 +717,3 @@ Week 6:  Sections 14–16 → Information theory, neural nets
 - Visualize how temperature scaling changes a softmax distribution
 
 ---
-
-*These notes cover all probability concepts required for ML/DL, NLP, computer vision, and probabilistic AI. Cross-reference with linear algebra and calculus notes for a complete AI mathematics foundation.*
