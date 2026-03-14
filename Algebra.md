@@ -983,4 +983,3 @@ a³ − b³      = (a − b)(a² + ab + b²)
 
 ---
 
-*Generated with Claude · Comprehensive Algebra Reference for AI*
