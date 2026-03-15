@@ -1,6 +1,5 @@
 # Probability Theory for AI — Complete Notes
 
-> **Goal:** Build a solid, AI-ready understanding of probability theory — from first principles to the concepts that power modern machine learning.
 
 ---
 
