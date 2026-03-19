@@ -1,84 +1,110 @@
-# 📅 WEEK: [Start Date → End Date]
+# 🧠 AI EXECUTION CALENDAR (PROGRESS GRID)
 
-## 🎯 Weekly Objectives (Max 3)
-- [ ] Objective 1:
-- [ ] Objective 2:
-- [ ] Objective 3:
-
----
-
-## 📊 Weekly Metrics (Track brutally honestly)
-- Videos Created:
-- Study Hours:
-- Deep Work Hours:
-- Distractions (hrs):
-- Sleep Avg (hrs):
+Legend:
+🟩 = Completed  
+🟨 = Partial  
+🟥 = Missed  
+⬜ = Not started  
 
 ---
 
-# 🗓️ DAILY EXECUTION
+## 🔹 PHASE 1 — FOUNDATION (Days 1–30)
 
-## 📍 DAY 1 — [Date]
+[Day 01] ⬜ Python Basics (loops, variables)
+[Day 02] ⬜ Functions + practice
+[Day 03] ⬜ NumPy basics
+[Day 04] ⬜ Pandas basics
+[Day 05] ⬜ Mini task (data cleaning)
 
-### 🔥 Top 3 Priorities (Non-negotiable)
+[Day 06] ⬜ Vectors (math)
+[Day 07] ⬜ Probability basics
+[Day 08] ⬜ Statistics basics
+[Day 09] ⬜ Gradient descent idea
+[Day 10] ⬜ Revision + small quiz
+
+[Day 11] ⬜ Linear regression (theory)
+[Day 12] ⬜ Implement regression
+[Day 13] ⬜ Dataset practice
+[Day 14] ⬜ Model evaluation
+[Day 15] ⬜ Fix errors + improve
+
+[Day 16] ⬜ Logistic regression
+[Day 17] ⬜ Classification dataset
+[Day 18] ⬜ Visualization
+[Day 19] ⬜ Debugging practice
+[Day 20] ⬜ Mini project start
+
+[Day 21] ⬜ Project work
+[Day 22] ⬜ Project work
+[Day 23] ⬜ Project work
+[Day 24] ⬜ Project polishing
+[Day 25] ⬜ Documentation
+
+[Day 26] ⬜ GitHub upload
+[Day 27] ⬜ Improve code
+[Day 28] ⬜ Add features
+[Day 29] ⬜ Final review
+[Day 30] ⬜ Phase completion
+
+---
+
+## 🔹 DAILY EXECUTION BLOCK
+
+Day: [__]
+
+### 🎯 Tasks
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
 
-### ⏰ Schedule
-| Time Block | Task | Status |
-|-----------|------|--------|
-| 6:00–8:00 |      | ⬜ |
-| 8:00–10:00|      | ⬜ |
-| 10:00–12:00|     | ⬜ |
-| 12:00–2:00|      | ⬜ |
-| 2:00–4:00 |      | ⬜ |
-| 4:00–6:00 |      | ⬜ |
-| 6:00–8:00 |      | ⬜ |
-| 8:00–10:00|      | ⬜ |
+### ⏱️ Time Blocks
+| Time | Work |
+|------|------|
+| 6–8  |      |
+| 8–10 |      |
+| 10–12|      |
+| 2–4  |      |
+| 4–6  |      |
 
-### 📈 Output
-- Work Done:
-- Skills Learned:
+### ⚡ Output
+- What I built today:
 
-### ⚠️ Reality Check
-- Wasted Time:
-- Biggest Mistake:
+### ❌ Reality Check
+- Time wasted:
+- Why:
 
 ---
 
-## 📍 DAY 2 — [Date]
-(copy same structure)
+## 📊 STREAK TRACKER
+
+Day 1  → 🔥  
+Day 2  → 🔥🔥  
+Day 3  → 🔥🔥🔥  
+Day 4  → ❌ (reset)
+
+Rule:
+- 3+ streak = good
+- 0 = you’re slipping
 
 ---
 
-## 📍 DAY 3 — [Date]
-(copy same structure)
+## 🧩 WEEKLY GRID VIEW (VISUAL)
+
+Week 1:
+🟩 🟩 🟥 🟨 🟩 🟩 🟥
+
+Week 2:
+⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+
+Week 3:
+⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
 ---
 
-## 📍 DAY 4 — [Date]
-(copy same structure)
+## 🎁 REWARD LOCK
 
----
+- 15 pts → entertainment
+- 30 pts → 1 hr break
+- 100 pts → full reward
 
-## 📍 DAY 5 — [Date]
-(copy same structure)
-
----
-
-## 📍 DAY 6 — [Date]
-(copy same structure)
-
----
-
-## 📍 DAY 7 — [Date]
-(copy same structure)
-
----
-
-# 📉 Weekly Review (No excuses)
-- What actually worked:
-- What failed (be specific):
-- What to eliminate next week:
-- What to double down on:
+(No points = no reward)
