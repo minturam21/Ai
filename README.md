@@ -3,3 +3,5 @@
 - Algebra
 - calculus
 - statistic
+- probability
+- 
