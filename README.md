@@ -1,5 +1,5 @@
 
 # AI
 - Algebra
-- caculus
+- calculus
 - statistic
