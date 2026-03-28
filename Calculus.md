@@ -1,6 +1,6 @@
 # Calculus for AI — Complete Notes
 
-> **Goal:** Build a solid, AI-ready understanding of calculus — from derivatives to backpropagation, optimization, and beyond.
+> **Goal:** Build a solid, AI-ready understanding of calculus from derivatives to backpropagation, optimization, and beyond.
 
 ---
 
