@@ -1,5 +1,5 @@
 
-# AI
+# AI - Maths
 - Algebra
 - calculus
 - statistic
